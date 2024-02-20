@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TonKphumpl
+- 👋 Hi, I’m Phumpanlop Klinyoo (Ton)
 - 👀 I’m interested in Data Analyst, Data Science about world of data
 - 🏠 can looking my website at https://kphumpanlop.wordpress.com
 - 📫 Email : k.phumpanlop@gmail.com
