@@ -1,6 +1,6 @@
 # Project : Retail Sales Dataset
 
-Reference : [https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset/data]
+Reference Dataset : [https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset/data]
 
 **About Dataset**
 
