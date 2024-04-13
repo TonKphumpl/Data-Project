@@ -20,6 +20,15 @@ The dataset, obtained through data extraction from top YouTube streamers using t
 - **Comments:** Reflects the average number of comments left on the streamer's videos. Comments are an important form of audience interaction and participation.
 - **Links:** Provides links or URLs to the streamer's YouTube channels, allowing direct access to their content.
 
+**Questions to Explore:**
+
+1. Distribution of subscribers, views, likes, and comments by boxplot
+2. Top 10 most popular Youtube channel (content) by viewers (Visits)
+3. Type of content do viewers in each country like the most
+4. Comparison of Subscribers, Visits, Likes, and Comments
+5. YouTube channels with the most engaged viewers.
+6. In each country there are How many YouTubers are there?
+
 ## Dashboard with Microsoft Power BI
 
 ![image](https://github.com/TonKphumpl/TonKphumpl/assets/139863067/3a20bcfe-b933-48b4-ae4b-2c1b8d8fe705)
