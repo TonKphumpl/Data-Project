@@ -32,10 +32,10 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
 
 **Questions to Explore:**
 
-- How does customer age and gender influence their purchasing behavior?
-- Are there discernible patterns in sales across different time periods?
-- Which product categories hold the highest appeal among customers?
-- What are the relationships between age, spending, and product preferences?
-- How do customers adapt their shopping habits during seasonal trends?
-- Are there distinct purchasing behaviors based on the number of items bought per transaction?
-- What insights can be gleaned from the distribution of product prices within each category?
+1. How does customer age and gender influence their purchasing behavior?
+2. Are there discernible patterns in sales across different time periods?
+3. Which product categories hold the highest appeal among customers?
+4. What are the relationships between age, spending, and product preferences?
+5. How do customers adapt their shopping habits during seasonal trends?
+6. Are there distinct purchasing behaviors based on the number of items bought per transaction?
+7. What insights can be gleaned from the distribution of product prices within each category?
