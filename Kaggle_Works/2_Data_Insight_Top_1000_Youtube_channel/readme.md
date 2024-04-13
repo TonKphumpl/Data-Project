@@ -28,15 +28,15 @@ The dataset, obtained through data extraction from top YouTube streamers using t
 4. Comparison of Subscribers, Visits, Likes, and Comments
 5. YouTube channels with the most engaged viewers.
    
-   5.1 Correlation variables : Subscribers, Visits, Engagement (Likes + Comments)
+      5.1 Correlation variables : Subscribers, Visits, Engagement (Likes + Comments)
    
-   5.2 Correlation of : %Visits/Subs, %EGM/Visits, %EGM/Subs
+      5.2 Correlation of : %Visits/Subs, %EGM/Visits, %EGM/Subs
    
-   5.3 Youtube channels which have %Visits/Subs > 45%
+      5.3 Youtube channels which have %Visits/Subs > 45%
    
-   5.4 Youtube channels which have %EGM/Visits > 10%
+      5.4 Youtube channels which have %EGM/Visits > 10%
    
-   5.5 Youtube channels which have %Visits/Subs > 45% and %EGM/Visits > 10%
+      5.5 Youtube channels which have %Visits/Subs > 45% and %EGM/Visits > 10%
    
 7. In each country there are How many YouTubers are there?
 
