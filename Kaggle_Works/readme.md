@@ -10,6 +10,24 @@ Welcome to the Retail Sales and Customer Demographics Dataset! This synthetic da
 
 This dataset is a snapshot of a fictional retail landscape, capturing essential attributes that drive retail operations and customer interactions. It includes key details such as Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit, and Total Amount. These attributes enable a multifaceted exploration of sales trends, demographic influences, and purchasing behaviors.
 
+- **Transaction ID:** A unique identifier for each transaction, allowing tracking and reference.
+
+- **Date:** The date when the transaction occurred, providing insights into sales trends over time.
+
+- **Customer ID:** A unique identifier for each customer, enabling customer-centric analysis.
+
+- **Gender:** The gender of the customer (Male/Female), offering insights into gender-based purchasing patterns.
+
+- **Age:** The age of the customer, facilitating segmentation and exploration of age-related influences.
+
+- **Product Category:** The category of the purchased product (e.g., Electronics, Clothing, Beauty), helping understand product preferences.
+
+- **Quantity:** The number of units of the product purchased, contributing to insights on purchase volumes.
+
+- **Price per Unit:** The price of one unit of the product, aiding in calculations related to total spending.
+
+- **Total Amount:** The total monetary value of the transaction, showcasing the financial impact of each purchase.
+
 **Questions to Explore:**
 
 - How does customer age and gender influence their purchasing behavior?
