@@ -1,4 +1,4 @@
-# Project : Top 1000 Youtubers statistics
+# Data insight : Top 1000 Youtubers statistics
 
 Reference Dataset : https://www.kaggle.com/datasets/computingvictor/top1000youtubers
 
