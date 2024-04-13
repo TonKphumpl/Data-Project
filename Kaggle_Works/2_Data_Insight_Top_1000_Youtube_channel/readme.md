@@ -19,3 +19,5 @@ The dataset, obtained through data extraction from top YouTube streamers using t
 - **Likes:** Indicates the average number of "Likes" received on the streamer's videos. "Likes" are an engagement metric that shows how many viewers appreciate the content.
 - **Comments:** Reflects the average number of comments left on the streamer's videos. Comments are an important form of audience interaction and participation.
 - **Links:** Provides links or URLs to the streamer's YouTube channels, allowing direct access to their content.
+
+[top1000_youtubres_dashboard.pdf]
