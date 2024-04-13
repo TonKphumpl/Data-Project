@@ -2,4 +2,5 @@
 - 👀 I’m interested in Data Analyst, Data Science about world of data
 - 🏠 can looking my website at https://kphumpanlop.wordpress.com
 - 📫 Email : k.phumpanlop@gmail.com
+- 🧑🏻‍💻 My code in Kaggle : https://www.kaggle.com/tonphumpl/code
 - Data Science Bootcamp (DataRockie batch 9) : https://github.com/TonKphumpl/data-science-bootcamp9.git
