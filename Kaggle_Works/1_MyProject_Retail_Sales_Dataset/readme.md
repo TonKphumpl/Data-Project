@@ -1,4 +1,4 @@
-# Project : Retail Sales Dataset
+# MyProject : Retail Sales Dataset
 
 Reference Dataset : https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset/data
 
