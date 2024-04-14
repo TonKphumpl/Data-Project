@@ -39,3 +39,20 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
 5. How do customers adapt their shopping habits during seasonal trends?
 6. Are there distinct purchasing behaviors based on the number of items bought per transaction?
 7. What insights can be gleaned from the distribution of product prices within each category?
+
+# Dashboard with Microsoft Power BI
+
+![image](https://github.com/TonKphumpl/Kaggle_Works/assets/139863067/3b22666d-9b8a-4696-9e96-2e268a4b3291)
+
+![image](https://github.com/TonKphumpl/Kaggle_Works/assets/139863067/07b3beda-05a5-4ee2-9455-6a93bf227fbb)
+
+![image](https://github.com/TonKphumpl/Kaggle_Works/assets/139863067/f85c6df1-7c49-40b7-a46b-5e9de7f04773)
+
+![image](https://github.com/TonKphumpl/Kaggle_Works/assets/139863067/1265a6e7-6da0-49d3-887d-07c26dedd233)
+
+![image](https://github.com/TonKphumpl/Kaggle_Works/assets/139863067/877c4f6c-f3c8-4892-86c0-4ce9e7690490)
+
+
+
+
+
