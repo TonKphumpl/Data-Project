@@ -42,6 +42,8 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
 
 # Dashboard with Microsoft Power BI
 
+https://app.powerbi.com/MobileRedirect.html?reportPage=ReportSection&Context=share-report&bookmarkGuid=b5f04751-7ffd-4beb-98fd-77826d902173&groupObjectId=019505e3-a3d4-4886-b5cf-829588053395&reportObjectId=82dbe406-af44-48a0-8b78-fe62e09da0b8&action=OpenReport&ctid=213e491d-43e3-4a8c-ac2d-8a26ed885e0f&pbi_source=mobile_ios
+
 ![image](https://github.com/TonKphumpl/Kaggle_Works/assets/139863067/3b22666d-9b8a-4696-9e96-2e268a4b3291)
 
 ![image](https://github.com/TonKphumpl/Kaggle_Works/assets/139863067/07b3beda-05a5-4ee2-9455-6a93bf227fbb)
