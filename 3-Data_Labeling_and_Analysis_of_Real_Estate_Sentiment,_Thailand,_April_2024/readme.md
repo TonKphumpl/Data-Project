@@ -24,4 +24,6 @@ The main steps involve two things primarily, columns I (sentiment) and J (topic)
 3. There's a competition among brands associated with politics. This suggests that brands are actively engaging in political discourse or aligning themselves with certain political ideologies to gain attention or support.
 
 4. Some messages are irrelevant to the political brand, such as store promotions, personal names, real estate listings for sale or rent, and so on. These messages do not pertain to the political aspect of the brand and need to be filtered out.
+
+5. Messages come in various formats due to extracting them from diverse social media platforms.
    
