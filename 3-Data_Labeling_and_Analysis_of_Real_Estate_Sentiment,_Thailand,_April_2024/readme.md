@@ -14,3 +14,5 @@ The main steps involve two things primarily, columns I (sentiment) and J (topic)
 2. Optionally, click to view the original post at C (direct URL) or D (post URL).
 3. Summarize the sentiment result in column I (positive, neutral, negative).
 4. Summarize the topic result in column J, indicating what the subject is, such as design, price & promotion, finance & branding.
+
+**Problem in messages of the real estate market in Thailand in April 2024 dataset**
